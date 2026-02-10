@@ -3,10 +3,10 @@
 Este es mi portafolio profesional que muestra mis proyectos y habilidades.
 
 ## Estructura del Proyecto
-- : Página principal
-- : Estilos del sitio
-- : Scripts JavaScript
-- : Recursos visuales
+- 'index.html': Página principal
+- 'css/': Estilos del sitio
+- 'js/': Scripts JavaScript
+- 'assets/': Recursos visuales
 
 ## Cómo usar
 1. Clonar el repositorio
